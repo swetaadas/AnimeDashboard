@@ -112,18 +112,6 @@ Based on the data analyzed in this dashboard, several notable patterns emerge:
 6. **Reset filters** — Click the funnel/clear icon in the top-right corner of each slicer to remove that filter.
 > **Tip:** For the best experience, use Excel in full-screen mode and ensure macros/content are enabled if prompted.
  
----
- 
-## 🖼️ Screenshots
- 
-> _Dashboard screenshots will be added here._
->
-> Suggested captures:
-> - Full dashboard overview
-> - KPI summary panel
-> - Genre breakdown chart
-> - Popularity vs. Rating scatter plot
-> - Studio comparison bar chart
  
 ---
  
